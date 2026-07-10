@@ -14,7 +14,7 @@ floodapp/
 ├── requirements.txt
 ├── wsgi.py                    # Punto de entrada para PythonAnywhere
 ├── data/
-│   ├── los_rios.geojson           # ⚠️ debes copiarlo desde tu notebook (Pareja A)
+│   ├── los_rios.geojson           # debes copiarlo desde tu notebook (Pareja A)
 │   └── predicciones_parroquias.csv  # ya incluido (salida real de la Pareja B)
 ├── templates/
 │   └── index.html
